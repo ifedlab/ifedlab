@@ -12,6 +12,8 @@
 
 ## FED实验室-小册
 
+- [现代CSS技术应用与实践小册介绍](./现代CSS技术应用与实践小册/小册介绍.md)
+
 <div class="fedlab-container" style="display: flex;">
   <a
       href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2NjUxODkzOA==&action=getalbum&album_id=3114397000008974342#wechat_redirect"
@@ -23,7 +25,7 @@
           alt="现代CSS技术应用与实践"
           width="200"
       />
-      <p style="margin:0">现代CSS技术应用与实践</p>
+      <p style="margin:0; text-align:center">现代CSS技术应用与实践</p>
   </a>
 </div>
 
