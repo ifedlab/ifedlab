@@ -12,7 +12,20 @@
 
 ## FED实验室-小册
 
-<div class="fedlab-container"><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2NjUxODkzOA==&action=getalbum&album_id=3114397000008974342#wechat_redirect" title="现代CSS技术应用与实践" style="display:block;text-align:center"><img src="./现代CSS技术应用与实践小册/小册封面.png" alt="现代CSS技术应用与实践" width="200"></a></div>
+<div class="fedlab-container" style="display: flex;">
+  <a
+      href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2NjUxODkzOA==&action=getalbum&album_id=3114397000008974342#wechat_redirect"
+      title="现代CSS技术应用与实践"
+      style="display: block; text-align: center"
+      >
+      <img
+          src="./现代CSS技术应用与实践小册/小册封面.png"
+          alt="现代CSS技术应用与实践"
+          width="200"
+      />
+      <p style="margin:0">现代CSS技术应用与实践</p>
+  </a>
+</div>
 
 ## FED实验室-文章列表
 
